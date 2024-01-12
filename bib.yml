@@ -1,0 +1,20 @@
+interface:
+  type: Book
+  title: The Linux Programming Interface
+  author: Kerrisk, Michael
+  date: 2010
+
+signal:
+  type: Web
+  url: https://man7.org/linux/man-pages/man7/signal.7.html
+
+safety:
+  type: Web
+  url: https://man7.org/linux/man-pages/man7/signal-safety.7.html
+ 
+kernel:
+  type: Book
+  title: Understanding the Linux Kernel
+  author: ["Daniel P. Bovet", "Marco Cesati"]
+  date: 2006
+
