@@ -18,3 +18,7 @@ kernel:
   author: ["Daniel P. Bovet", "Marco Cesati"]
   date: 2006
 
+sigaltstack:
+  type: Web
+  url: https://man7.org/linux/man-pages/man2/sigaltstack.2.html
+
